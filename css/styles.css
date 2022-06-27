@@ -11432,4 +11432,8 @@ section.resume-section .resume-section-content {
     padding-top: 5rem;
     padding-bottom: 5rem;
   }
+.tech {
+    margin: 10px
+}
+
 }
